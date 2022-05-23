@@ -9,8 +9,7 @@
 </div>
 
 <h1>
-  Courage, Will and Integrity
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Courage, Will and Integrity.
 <h1/>
 
 ## About me :
@@ -43,7 +42,11 @@
 
 <!--
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 <img src="https://komarev.com/ghpvc/?username=Kethantummala&style=flat-square&color=blue" alt="ViewCount"/>
+
+
 
 **Kethantummala/Kethantummala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
