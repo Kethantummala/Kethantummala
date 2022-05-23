@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/kethantummala/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Kethantummala&style=flat-square&color=blue" alt="ViewCount"/>
 </div>
 
 <h1>
@@ -14,11 +13,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <h1/>
 
-##About me:
+## About me :
 
 1 Year of software development experience as a Software Development Engineer (SDE) using distributed technologies and cloud computing with AWS in an Agile environment. I have experience designing scalable, distributed, multi-tiered software systems with Object-oriented design and programming Web applications, automation tools, web scraping systems, and GUI applications with Object-oriented programming, using optimized data structures and algorithms by handling data in Relational Databases.
 
-##Technologies, Tools and Techniques:
+## Technologies, Tools and Techniques:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -45,7 +44,7 @@
 
 <!--
 
-![github]()
+<img src="https://komarev.com/ghpvc/?username=Kethantummala&style=flat-square&color=blue" alt="ViewCount"/>
 
 **Kethantummala/Kethantummala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
